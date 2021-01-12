@@ -1,2 +1,2 @@
 # PyTorch-CellSegmentation
-PyTorch implementation of variations in the UNet architecture for segmenting overlapped cervical cells in cytological images.
+PyTorch implementation of variations in the UNet architecture for segmenting overlapped cervical cells in cytological images (ISBI'14 dataset).
